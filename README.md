@@ -1,11 +1,14 @@
 
+
 <div align="center">
 
-# Olá! Hello! Hola! こんにちは! नमस्ते! Eu sou Murilo Guedes 👋
+# Olá! Eu sou Murilo Guedes 👋
 
 ### Desenvolvedor em formação | Tecnologia e inovação
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](SEU_LINK_LINKEDIN)
+<a href="https://www.linkedin.com/in/murilo-guedes-848500381/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
 </div>
 
@@ -13,43 +16,42 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 - 💻 Técnico em Desenvolvimento de Sistemas.
-- 🏢 Experiência profissional em TI e tecnologia de Pagamentos.
-- 📚 Sempre aprendendo e desenvolvendo novas habilidades.
-- 🎯 Buscando oportunidades para crescer na área de tecnologia.
+- 🏢 Jovem Aprendiz na Pluxee, atuando na área de tecnologia de pagamentos.
+- 💡 Interessado em desenvolvimento de software, tecnologia e inovação.
+- 📚 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+- 🎯 Em busca de crescimento profissional na área de TI.
 
 ## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode" />
 
 </div>
 
-## 💼 Projetos
+## 💼 Projetos em destaque
 
 ### 🧼 VELLENE — Loja Virtual
 
-Projeto de desenvolvimento de uma loja virtual para uma marca de sabonetes artesanais.
+Desenvolvimento de uma loja virtual para uma marca de sabonetes artesanais.
 
-- Desenvolvimento de interface responsiva.
-- Catálogo de produtos.
+**Funcionalidades desenvolvidas:**
+- Interface responsiva.
+- Catálogo e organização de produtos.
 - Sistema de encomendas.
-- HTML, CSS e JavaScript.
+- Gerenciamento de pedidos.
+- Armazenamento de dados utilizando LocalStorage.
 
-🔗 Confira meus repositórios para conhecer meus projetos!
+**Tecnologias:** HTML, CSS e JavaScript.
 
 ---
 
 <div align="center">
 
-### Obrigado pela visita! 🚀
+### 🚀 Transformando aprendizado em projetos!
+
+**Obrigado pela visita!**
 
 </div>
