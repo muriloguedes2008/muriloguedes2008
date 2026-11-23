@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá! Eu sou Murilo Guedes 👋
+# Olá! Hello! Hola! こんにちは! नमस्ते! Eu sou Murilo Guedes 👋
 
 ### Desenvolvedor em formação | Tecnologia e inovação
 
@@ -15,7 +15,7 @@
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Técnico em Desenvolvimento de Sistemas.
-- 🏢 Experiência profissional em TI e tecnologia de pagamentos.
+- 🏢 Experiência profissional em TI e tecnologia de Pagamentos.
 - 📚 Sempre aprendendo e desenvolvendo novas habilidades.
 - 🎯 Buscando oportunidades para crescer na área de tecnologia.
 
@@ -35,7 +35,7 @@
 
 ## 💼 Projetos
 
-### 🧼 VELLNE — Loja Virtual
+### 🧼 VELLENE — Loja Virtual
 
 Projeto de desenvolvimento de uma loja virtual para uma marca de sabonetes artesanais.
 
